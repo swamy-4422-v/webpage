@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  align-items: center;       
+  text-align: center;        
+}
+
+h1 {
+  color: #2e8b57;
+}
+
+img {
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
